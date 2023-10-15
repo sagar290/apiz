@@ -5,7 +5,7 @@
     "require": {
         "php": ">=7.1",
         "ext-curl": "*",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^6.3|^6.5.5|^7.0.1",
         "ext-xmlwriter": "*",
         "lib-libxml": ">=2.6.20",
         "nahid/jsonq": "^5.1",
