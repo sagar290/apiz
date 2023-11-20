@@ -3,7 +3,7 @@
 use Loguzz\Formatter\RequestArrayFormatter;
 use Loguzz\Formatter\ResponseArrayFormatter;
 use PHPUnit\Framework\TestCase;
-use Psr\Log\Test\TestLogger;
+use ColinODell\PsrTestLogger\TestLogger;
 
 class RequestFormatterTest extends TestCase
 {
