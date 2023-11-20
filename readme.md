@@ -4,7 +4,7 @@ APIZ is a PHP API Client Development Kit. You can easily handle all kind of JSON
 
 ## Requirements
 
-- PHP >= 7.1
+- PHP >= 8
 
 ## Installations
 
